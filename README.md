@@ -45,4 +45,6 @@ To effectively navigate Nexus Dark Web Market, think about implementing these pr
 
 This guide is made solely for educational purposes. The information supplied herein aims to enhance understanding of darknet operations. We neither endorse nor promote any illegal activities. Always obey the applicable laws and regulations within your jurisdiction.
 
-Update:  14.07.2025
+
+
+Update: Link is live again
