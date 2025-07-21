@@ -47,4 +47,6 @@ This guide is made solely for educational purposes. The information supplied her
 
 
 
-Update: Link is live again
+
+
+Update:  21 July
