@@ -49,4 +49,6 @@ This guide is made solely for educational purposes. The information supplied her
 
 
 
-Update:  21 July
+
+
+Update: onion URLs fixed
